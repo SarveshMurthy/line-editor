@@ -1,6 +1,6 @@
 # Simple Line Editor in C
 
-Team Members - Sarvesh Kamlesh Murthy.
+Team Members - Sarvesh Kamlesh Murthy,Rudra Pratap Singh,Saksham Agarwal. 
 
 ## Compilation & Run Instructions
 To compile the system cleanly using gcc, run:
